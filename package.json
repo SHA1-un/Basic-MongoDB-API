@@ -1,0 +1,19 @@
+{
+  "name": "flutter-quiz-api",
+  "version": "1.0.0",
+  "description": "This api can be used to query all of the questions and answers to be displayed for the flutter quiz app as well as other CRUD operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./index.js",
+    "start": "node index.js"
+  },
+  "author": "SHA1-un (Shaun Oosthuizen)",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.3.1",
+    "nodemon": "^2.0.15"
+  }
+}
