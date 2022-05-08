@@ -11,3 +11,5 @@ Very basic MongoDB API with CRUD operations. Ready for deployment to Heroku or a
 
 ## References
 - [FreeCodeCamp](https://www.freecodecamp.org/news/build-a-restful-api-using-node-express-and-mongodb/)
+- [How to deploy to Heroku](https://dev.to/vanwildemeerschbrent/how-to-deploy-your-node-app-api-on-heroku-44n6)
+- [Connect Atlas to Heroku hosted app](https://www.mongodb.com/community/forums/t/connect-atlas-to-heroku-hosted-app/7202)
